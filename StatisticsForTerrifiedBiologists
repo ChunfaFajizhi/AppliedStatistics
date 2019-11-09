@@ -1,0 +1,6 @@
+#by Helmut van Emden
+
+1, Why n-1; degrees of freedom 
+By using the sample mean as the base from which to calculate the deviations for the sum of squares, we have lost one "degree of freedom." Thus variance is not the simple mean of the squared deviations, it is the squared deviation per opportunity for variation 
+2, "Parameter" is Greek for "beyond measurement." 
+In parameter statistics we recongnize that, although the theoretical distribution on which we base our statistical analyzes are defined by parameters, we have to work with samples from real populations,Such samples give us, with varying accuracy, only estimates of parameters that are truly "beyond measurement".
