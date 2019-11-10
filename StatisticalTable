@@ -1,3 +1,17 @@
 #Rankits(normal order statistics)
 #Welsch's set-up procedure
 #Kendall's rank correlation coefficient ꞇ
+#Olmsread and Turkey's test criterion
+#Mann-Whitney/static, U
+#Wilcoxon rank sum
+#Kolmogorov-Smirnov statistic
+#ơ-corrected one-sample
+#Page's test
+#Critical value for the number of runs
+#testing for outliers__according to Dixon
+#testing outliers____according to Grubbs
+#|1-ƞ/2|, a test of serial independence
+#Cn:Gurland and tripathi's correction for the standard deviation
+#Shapiro-Wilk test
+#Spearman rank correlation
+#Dunnett's test
