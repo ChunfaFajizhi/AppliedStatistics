@@ -1,2 +1,7 @@
 #compare 2 vector, the difference 
 setdiff(x,y): means x[!(x %in%y)]
+
+
+#https://rstudio.cloud/project/780837
+#user name:zhangchunfa
+login by google account: Chunfa.Zhang@gmail.com
