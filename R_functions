@@ -1,0 +1,2 @@
+#compare 2 vector, the difference 
+setdiff(x,y): means x[!(x %in%y)]
