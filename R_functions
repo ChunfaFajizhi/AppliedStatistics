@@ -5,3 +5,9 @@ setdiff(x,y): means x[!(x %in%y)]
 #https://rstudio.cloud/project/780837
 #user name:zhangchunfa
 login by google account: Chunfa.Zhang@gmail.com
+
+
+── Conflicts ────────────────────────────────────────────────────────────── tidyverse_conflicts() ──
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+when using the masked function after loading tidyverse, need to use the full name: stats::filter()
